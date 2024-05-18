@@ -1,2 +1,2 @@
-# PyhtonMasterclass
+# PythonMasterclass
 Python training
